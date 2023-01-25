@@ -1,0 +1,31 @@
+body{
+	background-color: #1ABC9C;
+}
+
+h1{
+	text-align: center;
+}
+
+p{
+	border-radius: 20px;
+	background-color: white;
+	margin-left: 110px;
+	margin-right: 110px;
+	border: 3px groove;
+}
+
+input{
+	border: 3px groove;
+	border-radius: 20px;
+}
+
+.calculadora{
+	display: block;
+	border: blue 8px outset;
+	border-radius: 20px;
+	width: 400px;
+	height: 320px;
+	text-align: center;
+	background-color: #2E86C1;
+	margin: auto;
+}

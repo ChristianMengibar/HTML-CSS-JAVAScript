@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding= "iso-8859-1"?>
+<Empresa xmlns: DatosEmpleado = "http://w3.org/empleado"
+	xmlns:DatosEmpresa = "http://w3.org/empresa">
+	<DatosEmpresa:NombreEmpresa>TecnoDerecho</DatosEmpresa:NombreEmpresa>
+	<DatosEmpresa:CIF>B84392943</DatosEmpresa:CIF>
+	<DatosEmpresa:Sector>Informatica</DatosEmpresa:Sector>
+	<DatosEmpresa:Departamentos>
+		<DatosEmpresa:Departamento>
+			<DatosEmpresa:NombreDepartamento>Servicio Tecnico</DatosEmpresa:NombreDepartamento>
+			<DatosEmpresa:NumeroEmpleados>3</DatosEmpresa:NumeroEmpleados>
+				<DatosEmpleado:Empleados>
+					<DatosEmpleado:Empleado>
+						<DatosEmpleado:DNI>54125898Y</DatosEmpleado:DNI>
+						<DatosEmpleado:Nombre>Christian</DatosEmpleado:Nombre>
+						<DatosEmpleado:Apellidos>Mengibar Castillo</DatosEmpleado:Apellidos>
+					</DatosEmpleado:Empleado>
+					<DatosEmpleado:Empleado>
+						<DatosEmpleado:DNI>14585423D</DatosEmpleado:DNI>
+						<DatosEmpleado:Nombre>Ruben</DatosEmpleado:Nombre>
+						<DatosEmpleado:Apellidos>Navarro Gonzalez</DatosEmpleado:Apellidos>
+					</DatosEmpleado:Empleado>
+					<DatosEmpleado:Empleado>
+						<DatosEmpleado:DNI>69654715J</DatosEmpleado:DNI>
+						<DatosEmpleado:Nombre>Javier</DatosEmpleado:Nombre>
+						<DatosEmpleado:Apellidos>Recio Vergaz</DatosEmpleado:Apellidos>
+					</DatosEmpleado:Empleado>
+				</DatosEmpleado:Empleados>
+		</DatosEmpresa:Departamento>
+		<DatosEmpresa:Departamento>
+			<DatosEmpresa:NombreDepartamento>Web</DatosEmpresa:NombreDepartamento>
+			<DatosEmpresa:NumeroEmpleados>2</DatosEmpresa:NumeroEmpleados>
+				<DatosEmpleado:Empleados>
+					<DatosEmpleado:Empleado>
+						<DatosEmpleado:DNI>45854102A</DatosEmpleado:DNI>
+						<DatosEmpleado:Nombre>Alfonso</DatosEmpleado:Nombre>
+						<DatosEmpleado:Apellidos>Castellote Gil</DatosEmpleado:Apellidos>
+					</DatosEmpleado:Empleado>
+					<DatosEmpleado:Empleado>
+						<DatosEmpleado:DNI>98584102X</DatosEmpleado:DNI>
+						<DatosEmpleado:Nombre>Alfredo</DatosEmpleado:Nombre>
+						<DatosEmpleado:Apellidos>Gonzalez Perez</DatosEmpleado:Apellidos>
+					</DatosEmpleado:Empleado>
+				</DatosEmpleado:Empleados>
+		</DatosEmpresa:Departamento>
+	</DatosEmpresa:Departamentos>
+</Empresa>

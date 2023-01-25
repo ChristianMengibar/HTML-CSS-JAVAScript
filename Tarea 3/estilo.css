@@ -1,0 +1,23 @@
+*{
+	}
+
+h1{
+	text-align: center;
+	font-weight: bold;
+}
+
+section{
+	background-color: gray;
+}
+
+h3{
+	text-align: right;
+}
+
+a{
+	text-align: left;
+}
+
+h3{
+	background-color: red;
+}

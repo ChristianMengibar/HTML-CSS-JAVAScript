@@ -1,0 +1,58 @@
+{
+	"instituto": {
+
+		"nombre": "Federica Montseny",
+
+		"titulos": [
+			{
+				"nombreTitulo": "Desarrollo de Aplicaciones Multiplataforma",
+				"horasTotales": "2500"
+			},
+
+			{
+				"nombreTitulo": "Farmacia y Parafarmacia",
+				"horasTotales": "2000"
+			},
+
+			{
+				"nombreTitulo": "Mantenimiento Electromecanico",
+				"horasTotales": "3000"
+			},
+
+			{
+				"nombreTitulo": "Quimica y Salud Medioambiental",
+				"horasTotales": "2200"
+			}
+		],
+
+		"alumnos": [
+			{
+				"nombreAlumno": "Christian",
+				"apellidosAlumno": "Mengibar Castillo",
+				"cursoAcademico": "1º DAM",
+				"fechaNacimiento": "08-06-1999"
+			},
+
+			{
+				"nombreAlumno": "Roberto",
+				"apellidosAlumno": "Fernandez Deboso",
+				"cursoAcademico": "1º DAM",
+				"fechaNacimiento": "30-03-1998"
+			},
+
+			{
+				"nombreAlumno": "Sergio",
+				"apellidosAlumno": "Gil Fernandez",
+				"cursoAcademico": "2º DAM",
+				"fechaNacimiento": "01-10-1995"
+			},
+
+			{
+				"nombreAlumno": "Michael",
+				"apellidosAlumno": "Obinna",
+				"cursoAcademico": "1º DAM",
+				"fechaNacimiento": "02-04-2000"
+			}
+		]
+	}
+}

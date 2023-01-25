@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+body{
+	background-color: #00FFF0;
+	max-width: 1000px;
+	margin: auto;
+}
+
+header{
+	background-color: #005A47;
+	border-radius: 10px;
+	padding: 5px 5px;
+	text-align: center;
+	color: white;
+	font-family: 'Hachi Maru Pop', cursive;
+}
+
+nav{
+	background-color: #08AA88;
+	border-radius: 10px;
+	padding: 10px 20px;
+	text-align: center;
+	font-family: 'Indie Flower', cursive;
+}
+
+a:hover{
+	color: red;
+	background-color: #00FFF0;
+}
+
+section{
+	background-color: #08AA88;
+	border-radius: 10px;
+	padding: 10px 20px;
+	text-align: center;
+}
+
+aside{
+	background-color: #08AA88;
+	border-radius: 10px;
+	padding: 10px 20px;
+	text-align: right;
+}
+
+footer{
+	background-color: #005A47;
+	border-radius: 10px;
+	padding: 10px 20px;
+	color: white;
+	text-align: center;
+	font-family: 'Hachi Maru Pop', cursive;
+}
+
+img{
+	text-align: center;
+	max-width: 800px;
+	max-height: 1000px;
+}
+
+dl{
+	text-align: center;
+}
+
+div{
+	text-align: right;
+}
+
+a{
+	background-color: #F1C40F;
+	color: black;
+	border-radius: 15px;
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+}
+
+table{
+	border-collapse: collapse;
+	margin: 0 auto;
+}
+		
+th{
+	border:1px solid #000;
+	padding:25px;
+	background-color: #978700;
+	text-decoration: bold;
+	color: white;
+}
+
+th:hover{
+	color: red;
+	background-color: #00FFF0;
+}
+
+td {
+	border:1px solid #000;
+	padding:25px;
+}
+
+td:hover{
+	color: red;
+	background-color: #00FFF0;
+}
+
+.pares{
+	border:1px solid #000;
+	padding:25px;
+	background-color: #FFF700;
+	text-decoration: bold;
+}
+
+.impares{
+	border:1px solid #000;
+	padding:25px;
+	background-color: #F9DF06;
+	text-decoration: bold;
+}
+
+ul{
+	text-align: left;
+}
+
+h1{
+	font-family: 'Hachi Maru Pop', cursive;
+}
+
+h2{
+	font-family: 'Hachi Maru Pop', cursive;
+}
+
+p{
+	font-family: 'Indie Flower', cursive;
+}
+
+i{
+	font-family: 'Indie Flower', cursive;
+}
+
+b{
+	font-family: 'Indie Flower', cursive;
+}
+
+dt,dd,li{
+	font-family: 'Indie Flower', cursive;
+}

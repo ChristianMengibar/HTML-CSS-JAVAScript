@@ -1,0 +1,38 @@
+section, main, header, footer{
+	max-width: 1000px;
+	margin: auto;
+	text-align: center;
+	background-color: #626567;
+}
+
+body{
+	background-image: url("noticias.png");
+	background-repeat: repeat;
+	background-attachment: fixed;
+}
+
+h1{
+	color: white;
+	font-size: 2em;
+	background-color: #626567;
+}
+
+nav{
+	background-color: #909497;
+	text-align: center;
+	margin-right: 443px;
+	margin-left: 443px;
+}
+
+h2{
+	background-color: #BDC3C7;
+}
+
+article{
+	border-style: dotted;
+}
+
+img{
+	float: left;
+	width: 200px; height: 110px;
+}

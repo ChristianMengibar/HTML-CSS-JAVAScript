@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>CALCULADORA CON JAVASCRIPT</title>
+		<link rel="stylesheet" href="estilo.css">
+		<script src="calculadora.js"></script>
+	</head>
+
+	<body>
+		<h1>CALCULADORA CON JAVASCRIPT</h1>
+		
+		<br>
+
+		<div class="calculadora">
+			<form>
+				<h1>CALCULADORA</h1>
+				<label>NUMERO 1</label>
+				<br>
+				<input type="number" name="num1" id="num1">
+
+				<br>
+				<br>
+
+				<label>NUMERO 2</label>
+				<br>
+				<input type="number" name="num2" id="num2">
+
+				<br>
+				<br>
+
+				<button type="button" value="+" onclick="sumar()">+</button>
+				<button type="button" value="-" onclick="restar()">-</button>
+				<button type="button" value="*" onclick="multiplicar()">*</button>
+				<button type="button" value="/" onclick="dividir()">/</button>
+
+				<br>
+
+				<p>EL RESULTADO ES: <span id="resultado"></span></p>
+
+				<footer>Calculadora de Christian Mengibar</footer>
+			</form>
+		</div>
+	</body>
+</html>
